@@ -31,6 +31,7 @@ Languages I <i>will</i> learn:<br>
 <code><img height="40" src="./icons/c.png" alt="C"></code>
 <code><img height="40" src="./icons/c.png" alt="C"></code>
 </div>
+<br>
 <div>
 Codewars level:<br>
 <img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br>
