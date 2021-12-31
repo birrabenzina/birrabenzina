@@ -40,25 +40,25 @@ Here are some ideas to get you started:
 </div>
 <div>
 	btw:<br/>
-	<pre><font color="#54FFFF"><b>                   -`</b></font> 
-	<font color="#54FFFF"><b>                  .o+`</b></font>                  
-	<font color="#54FFFF"><b>                 `ooo/</b></font>                  
-	<font color="#54FFFF"><b>                `+oooo:</b></font>                 
-	<font color="#54FFFF"><b>               `+oooooo:</b></font>                
-	<font color="#54FFFF"><b>               -+oooooo+:</b></font>               
-	<font color="#54FFFF"><b>             `/:-:++oooo+:</b></font>              
-	<font color="#54FFFF"><b>            `/++++/+++++++:</b></font>             
-	<font color="#54FFFF"><b>           `/++++++++++++++:</b></font>            
-	<font color="#54FFFF"><b>          `/+++ooooooooooooo/`</b></font>          
-	<font color="#54FFFF"><b>         ./ooosssso++osssssso+`</b></font>         
-	<font color="#54FFFF"><b>        .oossssso-````/ossssss+`</b></font>        
-	<font color="#54FFFF"><b>       -osssssso.      :ssssssso.</b></font>       
-	<font color="#54FFFF"><b>      :osssssss/        osssso+++.</b></font>       
-	<font color="#54FFFF"><b>     /ossssssss/        +ssssooo/-</b></font>      
-	<font color="#54FFFF"><b>   `/ossssso+/:-        -:/+osssso+-</b></font>    
-	<font color="#54FFFF"><b>  `+sso+:-`                 `.-/+oso:</b></font>   
-	<font color="#54FFFF"><b> `++:.                           `-/+/</b></font>
-	<font color="#54FFFF"><b> .`                                 `/</b></font>
+	<pre><font style="color:#54FFFF;"><b>                   -`</b></font> 
+	<font style="color:#54FFFF;"><b>                  .o+`</b></font>                  
+	<font style="color:#54FFFF;"><b>                 `ooo/</b></font>                  
+	<font style="color:#54FFFF;"><b>                `+oooo:</b></font>                 
+	<font style="color:#54FFFF;"><b>               `+oooooo:</b></font>                
+	<font style="color:#54FFFF;"><b>               -+oooooo+:</b></font>               
+	<font style="color:#54FFFF;"><b>             `/:-:++oooo+:</b></font>              
+	<font style="color:#54FFFF;"><b>            `/++++/+++++++:</b></font>             
+	<font style="color:#54FFFF;"><b>           `/++++++++++++++:</b></font>            
+	<font style="color:#54FFFF;"><b>          `/+++ooooooooooooo/`</b></font>          
+	<font style="color:#54FFFF;"><b>         ./ooosssso++osssssso+`</b></font>         
+	<font style="color:#54FFFF;"><b>        .oossssso-````/ossssss+`</b></font>        
+	<font style="color:#54FFFF;"><b>       -osssssso.      :ssssssso.</b></font>       
+	<font style="color:#54FFFF;"><b>      :osssssss/        osssso+++.</b></font>       
+	<font style="color:#54FFFF;"><b>     /ossssssss/        +ssssooo/-</b></font>      
+	<font style="color:#54FFFF;"><b>   `/ossssso+/:-        -:/+osssso+-</b></font>    
+	<font style="color:#54FFFF;"><b>  `+sso+:-`                 `.-/+oso:</b></font>   
+	<font style="color:#54FFFF;"><b> `++:.                           `-/+/</b></font>
+	<font style="color:#54FFFF;"><b> .`                                 `/</b></font>
 	</pre>
 </div>
 <div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
