@@ -50,7 +50,7 @@ Codewars level:<br/>
 <div>
 	btw:<br/>
 	<pre style="text-align:center;">
-		<font style="color:#54FFFF;"><b> 	 -`</b></font> 
+		<font style="color:#54FFFF;"><b> 	    -`</b></font> 
 		<font style="color:#54FFFF;"><b>                  .o+`</b></font>                  
 		<font style="color:#54FFFF;"><b>                 `ooo/</b></font>                  
 		<font style="color:#54FFFF;"><b>                `+oooo:</b></font>                 
