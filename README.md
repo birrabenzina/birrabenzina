@@ -34,6 +34,10 @@ Languages I <i>will</i> learn:<br/>
 <code><img height="40" src="./icons/c.png" alt="C"></code>
 </div>
 <br/>
+<div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
+<br/>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical"></div>
+<br/>
 <div>
 Codewars level:<br/>
 <img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br/>
