@@ -1,4 +1,4 @@
-### Sysadmin, physics student and aspiring DevOps
+## Sysadmin, physics student and aspiring DevOps
 <!--
 **birrabenzina/birrabenzina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Codewars level:<br>
-<img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br>
+Codewars level:<br><br>
+<img src="https://www.codewars.com/users/birrabenzina/badges/small" alt="Codewars"><br>
