@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-Languages I know to some extent and level with CEFR:
+Languages I know to some extent and level with CEFR:<br/>
 <ul>
 	<li>C2: <code><img height="40" src="./icons/latex.png" alt="LaTeX"></code></li>
 	<li>C1: <code><img height="40" src="./icons/bash.png" alt="Shell"></code></li>
@@ -24,15 +24,15 @@ Languages I know to some extent and level with CEFR:
 </ul>
 </div>
 <div>
-Languages I <i>will</i> learn:<br>
+Languages I <i>will</i> learn:<br/>
 <code><img height="40" src="./icons/cpp.png" alt="C++"></code>
 <code><img height="40" src="./icons/lua.png" alt="Lua"></code>
 <code><img height="40" src="./icons/rust.jpg" alt="Rust"></code>
 <code><img height="40" src="./icons/c.png" alt="C"></code>
 <code><img height="40" src="./icons/c.png" alt="C"></code>
 </div>
-<br>
+<br/>
 <div>
-Codewars level:<br>
-<img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br>
+Codewars level:<br/>
+<img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br/>
 </div>
