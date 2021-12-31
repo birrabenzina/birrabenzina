@@ -32,6 +32,8 @@ Languages I <i>will</i> learn:<br/>
 <code><img height="40" src="./icons/angular.png" alt="Angular"></code>
 <code><img height="40" src="./icons/assembly.png" alt="Assembly"></code>
 <code><img height="40" src="./icons/php.png" alt="PHP"></code>
+<code><img height="40" src="./icons/cobol.jpg" alt="COBOL"></code>
+<code><img height="40" src="./icons/c.png" alt="C"></code>
 </div>
 <br/>
 <div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
