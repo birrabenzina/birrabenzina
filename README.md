@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="15" src="./icons/coding.png"> Languages I know to some extent:<img height="15" src="/icons/coding.png"><br>
-<code><img height="30" src="./icons/latex.png" alt="LaTeX"></code>
-<code><img height="30" src="./icons/bash.png" alt="Shell"></code>
-<code><img height="30" src="./icons/r.svg" alt="R"></code>
-<code><img height="30" src="./icons/js.png" alt="JavaScript"></code>
-<code><img height="30" src="./icons/vim.svg" alt="Vimscript"></code>
-<code><img height="30" src="./icons/c.png" alt="C"></code>
+<img height="15" src="./icons/coding.png"> Languages I know to some extent and level with CEFR:<img height="15" src="/icons/coding.png"><br>
+<ul>
+	<li>C1:<code><img height="30" src="./icons/latex.png" alt="LaTeX"></code></li>
+	<li><code><img height="30" src="./icons/bash.png" alt="Shell"></code></li>
+	<li><code><img height="30" src="./icons/r.svg" alt="R"></code></li>
+	<li><code><img height="30" src="./icons/js.png" alt="JavaScript"></code></li>
+	<li><code><img height="30" src="./icons/vim.svg" alt="Vimscript"></code></li>
+	<li><code><img height="30" src="./icons/c.png" alt="C"></code></li>
+</ul>
 <br>
 <code><img height="30" src="./icons/cpp.png" alt="C++"></code>
 <code><img height="30" src="./icons/c.png" alt="Lua"></code>
