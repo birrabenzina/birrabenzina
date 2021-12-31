@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="15" src="./icons/coding.png"> Languages I know to some extent and level with CEFR:<img height="15" src="/icons/coding.png"><br>
+<div>
+Languages I know to some extent and level with CEFR:
 <ul>
 	<li>C2:<code><img height="30" src="./icons/latex.png" alt="LaTeX"></code></li>
 	<li>C1:<code><img height="30" src="./icons/bash.png" alt="Shell"></code></li>
@@ -21,12 +22,13 @@ Here are some ideas to get you started:
 	<li>B1:<code><img height="30" src="./icons/c.png" alt="C"></code> <code><img height="30" src="./icons/html.png" alt="HTML"></code> <code><img height="30" src="./icons/vba.png"></code></li>
 	<li>A2:<code><img height="30" src="./icons/js.jpg" alt="JavaScript"></code> <code><img height="30" src="./icons/css1.png" alt="CSS"></code> <code><img height="30" src="./icons/python.png" alt="Python"></code></li>
 </ul>
-<br>
+</div>
+<div>
 <code><img height="30" src="./icons/cpp.png" alt="C++"></code>
 <code><img height="30" src="./icons/lua.png" alt="Lua"></code>
 <code><img height="30" src="./icons/rust.jpg" alt="Rust"></code>
 <code><img height="30" src="./icons/c.png" alt="C"></code>
 <code><img height="30" src="./icons/c.png" alt="C"></code>
-
+</div>
 Codewars level:<br>
 <img src="https://www.codewars.com/users/birrabenzina/badges/small" alt="Codewars"><br>
