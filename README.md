@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Codewars level:<br><br>
+Codewars level:<br>
 <img src="https://www.codewars.com/users/birrabenzina/badges/small" alt="Codewars"><br>
