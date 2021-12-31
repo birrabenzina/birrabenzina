@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align:center;">
+<div>
 Languages I know to some extent and level with CEFR:<br/>
 <ul>
 	<li>C2: <code><img height="40" src="./icons/latex.png" alt="LaTeX"></code></li>
@@ -23,7 +23,7 @@ Languages I know to some extent and level with CEFR:<br/>
 	<li>A2: <code><img height="40" src="./icons/js.jpg" alt="JavaScript"></code> <code><img height="40" src="./icons/css1.png" alt="CSS"></code> <code><img height="40" src="./icons/python.png" alt="Python"></code><code><img height="40" src="./icons/sql.png" alt="SQL"></code></li>
 </ul>
 </div>
-<div style="text-align:center;">
+<div>
 Languages I <i>will</i> learn:<br/>
 <code><img height="40" src="./icons/cpp.png" alt="C++"></code>
 <code><img height="40" src="./icons/lua.png" alt="Lua"></code>
@@ -35,9 +35,9 @@ Languages I <i>will</i> learn:<br/>
 <code><img height="40" src="./icons/cobol.jpg" alt="COBOL"></code>
 </div>
 <br/>
-<div style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical">
+<div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical"></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical"></div>
 <br/>
 <div>
 Codewars level:<br/>
