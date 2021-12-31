@@ -38,29 +38,7 @@ Here are some ideas to get you started:
 <div>
 	Enjoy my <a href="https://github.com/birrabenzina/dots">dots</a> repo, I keep scripts and rices there, while <a href="https://github.com/birrabenzina/spicyphysics">here</a> you can get my physics notes, enjoy!
 </div>
-<div>
-	btw:<br/>
-	<pre><font style="color:#54FFFF;"><b>                   -`</b></font> 
-	<font style="color:#54FFFF;"><b>                  .o+`</b></font>                  
-	<font style="color:#54FFFF;"><b>                 `ooo/</b></font>                  
-	<font style="color:#54FFFF;"><b>                `+oooo:</b></font>                 
-	<font style="color:#54FFFF;"><b>               `+oooooo:</b></font>                
-	<font style="color:#54FFFF;"><b>               -+oooooo+:</b></font>               
-	<font style="color:#54FFFF;"><b>             `/:-:++oooo+:</b></font>              
-	<font style="color:#54FFFF;"><b>            `/++++/+++++++:</b></font>             
-	<font style="color:#54FFFF;"><b>           `/++++++++++++++:</b></font>            
-	<font style="color:#54FFFF;"><b>          `/+++ooooooooooooo/`</b></font>          
-	<font style="color:#54FFFF;"><b>         ./ooosssso++osssssso+`</b></font>         
-	<font style="color:#54FFFF;"><b>        .oossssso-````/ossssss+`</b></font>        
-	<font style="color:#54FFFF;"><b>       -osssssso.      :ssssssso.</b></font>       
-	<font style="color:#54FFFF;"><b>      :osssssss/        osssso+++.</b></font>       
-	<font style="color:#54FFFF;"><b>     /ossssssss/        +ssssooo/-</b></font>      
-	<font style="color:#54FFFF;"><b>   `/ossssso+/:-        -:/+osssso+-</b></font>    
-	<font style="color:#54FFFF;"><b>  `+sso+:-`                 `.-/+oso:</b></font>   
-	<font style="color:#54FFFF;"><b> `++:.                           `-/+/</b></font>
-	<font style="color:#54FFFF;"><b> .`                                 `/</b></font>
-	</pre>
-</div>
+<br/>
 <div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
 <br/>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical"></div>
@@ -69,3 +47,28 @@ Here are some ideas to get you started:
 Codewars level:<br/>
 <img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br/>
 </div>
+<div>
+	btw:<br/>
+	<pre style="text-align:center;">
+		<font style="color:#54FFFF;"><b>  -`</b></font> 
+		<font style="color:#54FFFF;"><b>                  .o+`</b></font>                  
+		<font style="color:#54FFFF;"><b>                 `ooo/</b></font>                  
+		<font style="color:#54FFFF;"><b>                `+oooo:</b></font>                 
+		<font style="color:#54FFFF;"><b>               `+oooooo:</b></font>                
+		<font style="color:#54FFFF;"><b>               -+oooooo+:</b></font>               
+		<font style="color:#54FFFF;"><b>             `/:-:++oooo+:</b></font>              
+		<font style="color:#54FFFF;"><b>            `/++++/+++++++:</b></font>             
+		<font style="color:#54FFFF;"><b>           `/++++++++++++++:</b></font>            
+		<font style="color:#54FFFF;"><b>          `/+++ooooooooooooo/`</b></font>          
+		<font style="color:#54FFFF;"><b>         ./ooosssso++osssssso+`</b></font>         
+		<font style="color:#54FFFF;"><b>        .oossssso-````/ossssss+`</b></font>        
+		<font style="color:#54FFFF;"><b>       -osssssso.      :ssssssso.</b></font>       
+		<font style="color:#54FFFF;"><b>      :osssssss/        osssso+++.</b></font>       
+		<font style="color:#54FFFF;"><b>     /ossssssss/        +ssssooo/-</b></font>      
+		<font style="color:#54FFFF;"><b>   `/ossssso+/:-        -:/+osssso+-</b></font>    
+		<font style="color:#54FFFF;"><b>  `+sso+:-`                 `.-/+oso:</b></font>   
+		<font style="color:#54FFFF;"><b> `++:.                           `-/+/</b></font>
+		<font style="color:#54FFFF;"><b> .`                                 `/</b></font>
+	</pre>
+	I use Arch
+</div><br/>
