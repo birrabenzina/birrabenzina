@@ -24,6 +24,7 @@ Languages I know to some extent and level with CEFR:
 </ul>
 </div>
 <div>
+Languages I <i>will</i> learn:<br>
 <code><img height="40" src="./icons/cpp.png" alt="C++"></code>
 <code><img height="40" src="./icons/lua.png" alt="Lua"></code>
 <code><img height="40" src="./icons/rust.jpg" alt="Rust"></code>
