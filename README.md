@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <ul>
 	<li>C2:<code><img height="30" src="./icons/latex.png" alt="LaTeX"></code></li>
 	<li>C1:<code><img height="30" src="./icons/bash.png" alt="Shell"></code></li>
-	<li>B2:<code><img height="30" src="./icons/r.svg" alt="R"></code>, <code><img height="30" src="./icons/vim.svg" alt="Vimscript"></code></li>
-	<li>B1:<code><img height="30" src="./icons/c.png" alt="C"></code></li>
-	<li>A2:<code><img height="30" src="./icons/js.png" alt="JavaScript"></code></li>
+	<li>B2:<code><img height="30" src="./icons/r.svg" alt="R"></code> <code><img height="30" src="./icons/vim.svg" alt="Vimscript"></code></li>
+	<li>B1:<code><img height="30" src="./icons/c.png" alt="C"></code> <code><img height="30" src="./icons/html.png" alt="HTML"></code></li>
+	<li>A2:<code><img height="30" src="./icons/js.png" alt="JavaScript"></code> <code><img height="30" src=./icons/css.png" alt="CSS"></code></li>
 </ul>
 <br>
 <code><img height="30" src="./icons/cpp.png" alt="C++"></code>
