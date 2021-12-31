@@ -28,7 +28,8 @@ Languages I <i>will</i> learn:<br/>
 <code><img height="40" src="./icons/cpp.png" alt="C++"></code>
 <code><img height="40" src="./icons/lua.png" alt="Lua"></code>
 <code><img height="40" src="./icons/rust.jpg" alt="Rust"></code>
-<code><img height="40" src="./icons/c.png" alt="C"></code>
+<code><img height="40" src="./icons/haskell.png" alt="Haskell"></code>
+<code><img height="40" src="./icons/angular.png" alt="Angular"></code>
 <code><img height="40" src="./icons/c.png" alt="C"></code>
 </div>
 <br/>
