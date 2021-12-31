@@ -20,7 +20,7 @@ Languages I know to some extent and level with CEFR:<br/>
 	<li>C1: <code><img height="40" src="./icons/bash.png" alt="Shell"></code></li>
 	<li>B2: <code><img height="40" src="./icons/r.svg" alt="R"></code> <code><img height="40" src="./icons/vim.svg" alt="Vimscript"></code></li>
 	<li>B1: <code><img height="40" src="./icons/c.png" alt="C"></code> <code><img height="40" src="./icons/html.png" alt="HTML"></code> <code><img height="40" src="./icons/vba.png"></code></li>
-	<li>A2: <code><img height="40" src="./icons/js.jpg" alt="JavaScript"></code> <code><img height="40" src="./icons/css1.png" alt="CSS"></code> <code><img height="40" src="./icons/python.png" alt="Python"></code></li>
+	<li>A2: <code><img height="40" src="./icons/js.jpg" alt="JavaScript"></code> <code><img height="40" src="./icons/css1.png" alt="CSS"></code> <code><img height="40" src="./icons/python.png" alt="Python"></code><code><img height="40" src="./icons/sql.png" alt="SQL"></code></li>
 </ul>
 </div>
 <div>
@@ -33,7 +33,6 @@ Languages I <i>will</i> learn:<br/>
 <code><img height="40" src="./icons/assembly.png" alt="Assembly"></code>
 <code><img height="40" src="./icons/php.png" alt="PHP"></code>
 <code><img height="40" src="./icons/cobol.jpg" alt="COBOL"></code>
-<code><img height="40" src="./icons/sql.png" alt="SQL"></code>
 </div>
 <br/>
 <div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
