@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages I know:<br>
+<code><img height="30" src="/icons/c.png"></code>
+
 Codewars level:<br>
 <img src="https://www.codewars.com/users/birrabenzina/badges/small" alt="Codewars"><br>
