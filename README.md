@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="./icons/js.png" alt="JavaScript"></code>
 <code><img height="30" src="./icons/vim.svg" alt="Vimscript"></code>
 <code><img height="30" src="./icons/c.png" alt="C"></code>
+<br>
 <code><img height="30" src="./icons/cpp.png" alt="C++"></code>
 <code><img height="30" src="./icons/c.png" alt="Lua"></code>
 <code><img height="30" src="./icons/c.png" alt="C"></code>
