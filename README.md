@@ -30,5 +30,7 @@ Languages I know to some extent and level with CEFR:
 <code><img height="30" src="./icons/c.png" alt="C"></code>
 <code><img height="30" src="./icons/c.png" alt="C"></code>
 </div>
+<div>
 Codewars level:<br>
-<img src="https://www.codewars.com/users/birrabenzina/badges/small" alt="Codewars"><br>
+<img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br>
+</div>
