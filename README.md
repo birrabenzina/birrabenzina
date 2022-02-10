@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
 <br/>
 <!--<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical&layout=compact"></div>-->
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&exclude_repo=dots,spicyphysics&theme=radical&layout=compact"></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&exclude_repo=dots,spicyphysics,bash-latex&theme=radical&layout=compact"></div>
 <br/>
 <div>
 Codewars level:<br/>
