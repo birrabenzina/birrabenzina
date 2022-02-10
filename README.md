@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 	<code><img height="40" src="./icons/assembly.png" alt="Assembly"></code>
 	<code><img height="40" src="./icons/php.png" alt="PHP"></code>
 	<code><img height="40" src="./icons/cobol.jpg" alt="COBOL"></code>
-	<code><img height="40" src="./icons/perl-republic.jpg" alt="Perl"></code>
+	<code><img height="40" src="./icons/perl-republic.png" alt="Perl"></code>
 </div>
 <br/>
 <div>
