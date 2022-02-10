@@ -49,7 +49,12 @@ Codewars level:<br/>
 <img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br/>
 </div>
 <div>
-	btw:<br/>
+btw:</br>
+<img src="./icons/archlinux.jpg">
+</br>
+I use Arch
+</div>
+	<!--<br/>
 	<pre style="text-align:center;">
 		<font style="color:#54FFFF;"><b> 	           -`</b></font> 
 		<font style="color:#54FFFF;"><b>                  .o+`</b></font>                  
@@ -73,3 +78,4 @@ Codewars level:<br/>
 	</pre>
 	I use Arch
 </div><br/>
+-->
