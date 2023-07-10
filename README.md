@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 		<li>C2: <code><img height="40" src="./icons/latex.png" alt="LaTeX"></code></li>
 		<li>C1: <code><img height="40" src="./icons/bash.png" alt="Shell"></code></li>
 		<li>B2: <code><img height="40" src="./icons/r.svg" alt="R"></code><code><img height="40" src="./icons/c.png" alt="C"></code><code><img height="40" src="./icons/vim.svg" alt="Vimscript"></code></li>
-		<li>B1:  <code><img height="40" src="./icons/python.png" alt="Python"></code><code><img height="40" src="./icons/html.png" alt="HTML"></code><code><img height="40" src="./icons/go.png"></code></li>
-		<li>A2: <code><img height="40" src="./icons/prpsmall.gif" alt="Perl"></code><code><img height="40" src="./icons/js.jpg" alt="JavaScript"></code> <code><img height="40" src="./icons/css1.png" alt="CSS"></code> <code><img height="40" src="./icons/sql.png" alt="SQL"></code><code><img height="40" src="./icons/vba.png"></code></li>
+		<li>B1:  <code><img height="40" src="./icons/prpsmall.gif" alt="Perl"></code><code><img height="40" src="./icons/python.png" alt="Python"></code><code><img height="40" src="./icons/html.png" alt="HTML"></code><code><img height="40" src="./icons/go.png"></code></li>
+		<li>A2: <code><img height="40" src="./icons/js.jpg" alt="JavaScript"></code> <code><img height="40" src="./icons/css1.png" alt="CSS"></code> <code><img height="40" src="./icons/sql.png" alt="SQL"></code><code><img height="40" src="./icons/vba.png"></code></li>
 	</ul>
 </div>
 <div>
