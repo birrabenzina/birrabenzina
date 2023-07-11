@@ -20,7 +20,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python 3" alt="Python" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html-plain.svg" title="HTML 5" alt="HTML5" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML 5" alt="HTML5" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>
         <img src="/icons/perl-republic.png" title="PERL" alt="PERL" width="40" height="40"/>
