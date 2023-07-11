@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: cazzo/piccolo
 - ⚡ Fun fact: gli n mangmgiano la mermnda x rimangmere di kuel colore 😳😳😳😳
 -->
+#:hammer_and_wrench: Tools I use:
 <div>
-    :hammer_and_wrench: Tools I use and know to some extent:
     <ul>
         <code><img src="/icons/latex-original.png" title="LaTeX2e" alt="LaTeX" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/></code>
