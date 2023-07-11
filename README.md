@@ -17,12 +17,13 @@ Here are some ideas to get you started:
     :hammer_and_wrench: Tools I use and know to some extent:
     <ul>
         <code><img src="/icons/latex-original.png" title="LaTeX2e" alt="LaTeX" width="40" height="40"/></code>
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/></code>
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python 3" alt="Python" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title=" 5" alt="5" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/></code>
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/></code>
         <code><img src="/icons/perl-republic.png" title="PERL" alt="PERL" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/></code>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
         </ul>
 </div>
 <div>
-	Languages I <i>will</i> learn:<br/>
+	Languages I want to learn learn:<br/>
 	<code><img height="40" src="./icons/cpp.png" alt="C++"></code>
 	<code><img height="40" src="./icons/lua.png" alt="Lua"></code>
 	<code><img height="40" src="./icons/rust.jpg" alt="Rust"></code>
@@ -50,10 +51,6 @@ Here are some ideas to get you started:
 <!--<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical&layout=compact"></div>-->
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&exclude_repo=dots,spicyphysics,bash-LaTeX,birrabenzina&theme=radical&layout=compact"></div>
 <br/>
-<div>
-Codewars level:<br/>
-<img src="https://www.codewars.com/users/birrabenzina/badges/large" alt="Codewars"><br/>
-</div>
 <div>
 btw:</br>
 <img src="./icons/archlinux.jpg">
