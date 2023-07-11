@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: cazzo/piccolo
 - ⚡ Fun fact: gli n mangmgiano la mermnda x rimangmere di kuel colore 😳😳😳😳
 -->
-#:hammer_and_wrench: Tools I use:
+### :hammer_and_wrench: Tools I use:
 <div>
     <ul>
         <code><img src="/icons/latex-original.png" title="LaTeX2e" alt="LaTeX" width="40" height="40"/></code>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         </ul>
 </div>
 <div>
-	Languages I want to learn learn:<br/>
+	Tools I want to learn learn:<br/>
 	<code><img height="40" src="./icons/cpp.png" alt="C++"></code>
 	<code><img height="40" src="./icons/lua.png" alt="Lua"></code>
 	<code><img height="40" src="./icons/rust.jpg" alt="Rust"></code>
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 	Enjoy my <a href="https://github.com/birrabenzina/dots">dots</a> repo, I keep scripts and rices there, while <a href="https://github.com/birrabenzina/spicyphysics">here</a> you can get my physics notes, enjoy!
 </div>
 <br/>
+### Random stats
 <div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
 <br/>
 <!--<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical&layout=compact"></div>-->
