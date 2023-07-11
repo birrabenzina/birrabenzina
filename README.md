@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         </ul>
 </div>
 <div>
-	Tools I want to learn learn:<br/>
+	Tools I want to learn:<br/>
 	<code><img height="40" src="./icons/cpp.png" alt="C++"></code>
 	<code><img height="40" src="./icons/lua.png" alt="Lua"></code>
 	<code><img height="40" src="./icons/rust.jpg" alt="Rust"></code>
