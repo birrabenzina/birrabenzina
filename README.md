@@ -46,7 +46,9 @@ Here are some ideas to get you started:
 	Enjoy my <a href="https://github.com/birrabenzina/dots">dots</a> repo, I keep scripts and rices there, while <a href="https://github.com/birrabenzina/spicyphysics">here</a> you can get my physics notes, enjoy!
 </div>
 <br/>
+
 ### Random stats
+
 <div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
 <br/>
 <!--<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical&layout=compact"></div>-->
