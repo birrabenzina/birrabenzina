@@ -14,13 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: gli n mangmgiano la mermnda x rimangmere di kuel colore 😳😳😳😳
 -->
 <div>
-    :hammer_and_wrench: Tools I use:
+    :hammer_and_wrench: Tools I use and know to some extent:
 	<ul>
-		<li>C2: <code><img height="40" src="./icons/latex.png" alt="LaTeX"></code></li>
-		<li>C1: <code><img height="40" src="./icons/bash.png" alt="Shell"></code></li>
-		<li>B2: <code><img height="40" src="./icons/r.svg" alt="R"></code><code><img height="40" src="./icons/c.png" alt="C"></code><code><img height="40" src="./icons/vim.svg" alt="Vimscript"></code></li>
-		<li>B1:  <code><img height="40" src="./icons/perl-republic.png" alt="Perl"></code><code><img height="40" src="./icons/python.png" alt="Python"></code><code><img height="40" src="./icons/html.png" alt="HTML"></code><code><img height="40" src="./icons/go.png"></code></li>
-		<li>A2: <code><img height="40" src="./icons/js.jpg" alt="JavaScript"></code> <code><img height="40" src="./icons/css1.png" alt="CSS"></code> <code><img height="40" src="./icons/sql.png" alt="SQL"></code><code><img height="40" src="./icons/vba.png"></code></li>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX2e" alt="LaTeX" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python 3" alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html-plain.svg" title="HTML 5" alt="HTML5" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
+        <img src="/icons/perl-republic.png" title="PERL" alt="PERL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 	</ul>
 </div>
 <div>
