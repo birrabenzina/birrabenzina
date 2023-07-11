@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 <div>
     :hammer_and_wrench: Tools I use and know to some extent:
+    <ul>
         <img src="/icons/latex-original.png" title="LaTeX2e" alt="LaTeX" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+        </ul>
 </div>
 <div>
 	Languages I <i>will</i> learn:<br/>
