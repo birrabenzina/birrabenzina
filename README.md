@@ -43,16 +43,16 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div>
-	Enjoy my <a href="https://github.com/birrabenzina/dots">dots</a> repo, I keep scripts and rices there, while <a href="https://github.com/birrabenzina/spicyphysics">here</a> you can get my physics notes, enjoy!
+	Enjoy my <a href="https://github.com/moncheri-jao/dots">dots</a> repo, I keep scripts and rices there, while <a href="https://github.com/moncheri-jao/spicyphysics">here</a> you can get my physics notes, enjoy!
 </div>
 <br/>
 
 ### Random stats
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=birrabenzina&show_icons=true&theme=radical"></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=moncheri-jao&show_icons=true&theme=radical"></div>
 <br/>
 <!--<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&theme=radical&layout=compact"></div>-->
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrabenzina&exclude_repo=dots,spicyphysics,bash-LaTeX,birrabenzina&theme=radical&layout=compact"></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncheri-jao&exclude_repo=dots,spicyphysics,bash-LaTeX,birrabenzina&theme=radical&layout=compact"></div>
 <br/>
 <div>
 btw:</br>
